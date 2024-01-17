@@ -25,8 +25,8 @@
         "isRoundedButtons": true,
         "isGhostButtonBorder": true,
         "underlinedLinks": false,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "titlePreset": "Trade Company",
       "nameSelectPreset": "trade-company",
@@ -54,7 +54,7 @@
     "versionPublish": "5.7.12",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/swoim-szlakiem-128x128.png",
-    "mbrsiteDomain": "bm4guh4mra",
+    "mbrsiteDomain": "zbcjnrzsay",
     "usedWebp": true,
     "cssOptimize": true,
     "lazyLoad": true,
@@ -71,7 +71,7 @@
       "colorLink": "#424a4d",
       "underlineLink": true,
       "opacityOverlay": "1",
-      "text": "Używamy plików cookie, aby zapewnić najlepszą jakość usług zgodnie z postanowieniami <a href='https://swoimszlakiem-sklep.pl/help-center/privacy-policy'>Polityki prywatności i cookes</a>.",
+      "text": "Używamy plików cookie, aby zapewnić najlepszą jakość usług zgodnie z postanowieniami <a href='https://swoimszlakiem-sklep.pl/help-center/privacy-policy'>Polityki prywatności i cookies</a>.",
       "textButton": "AKCEPTUJ",
       "rejectText": "REJECT"
     },
